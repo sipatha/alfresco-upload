@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "isFile": true,
+    "createdByUser": {
+      "id": "admin",
+      "displayName": "Administrator"
+    },
+    "modifiedAt": "2021-09-25T06:00:29.196+0000",
+    "nodeType": "cm:content",
+    "content": {
+      "mimeType": "application/pdf",
+      "mimeTypeName": "Adobe PDF Document",
+      "sizeInBytes": 413219,
+      "encoding": "UTF-8"
+    },
+    "parentId": "7103214b-bbb6-49ea-9aca-f398f60ee5c2",
+    "aspectNames": [
+      "cm:versionable",
+      "cm:titled",
+      "cm:auditable"
+    ],
+    "createdAt": "2021-09-25T06:00:29.196+0000",
+    "isFolder": false,
+    "modifiedByUser": {
+      "id": "admin",
+      "displayName": "Administrator"
+    },
+    "name": "DomainRenewalHosting20192020.pdf",
+    "id": "775cccca-3c8d-4d95-9dca-264190fd825d",
+    "properties": {
+      "cm:title": "DomainRenewalHosting20192020",
+      "cm:versionType": "MAJOR",
+      "cm:versionLabel": "1.0",
+      "cm:description": "ERPNext file DomainRenewalHosting20192020 bulk upload"
+    }
+  }
+}

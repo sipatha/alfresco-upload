@@ -1,0 +1,163 @@
+{
+  "list": {
+    "pagination": {
+      "count": 5,
+      "hasMoreItems": true,
+      "totalItems": 3111,
+      "skipCount": 0,
+      "maxItems": 5
+    },
+    "entries": [
+      {
+        "entry": {
+          "createdAt": "2021-09-25T06:00:29.196+0000",
+          "archivedAt": "2021-09-26T04:00:24.652+0000",
+          "isFolder": false,
+          "isFile": true,
+          "createdByUser": {
+            "id": "admin",
+            "displayName": "Administrator"
+          },
+          "modifiedAt": "2021-09-26T03:34:08.796+0000",
+          "modifiedByUser": {
+            "id": "admin",
+            "displayName": "Administrator"
+          },
+          "name": "DomainRenewalHosting20192020.pdf",
+          "archivedByUser": {
+            "id": "admin",
+            "displayName": "Administrator"
+          },
+          "id": "775cccca-3c8d-4d95-9dca-264190fd825d",
+          "nodeType": "cm:content",
+          "content": {
+            "mimeType": "application/pdf",
+            "mimeTypeName": "Adobe PDF Document",
+            "sizeInBytes": 413219,
+            "encoding": "UTF-8"
+          }
+        }
+      },
+      {
+        "entry": {
+          "createdAt": "2021-09-25T05:59:38.591+0000",
+          "archivedAt": "2021-09-26T03:21:34.432+0000",
+          "isFolder": false,
+          "isFile": true,
+          "createdByUser": {
+            "id": "admin",
+            "displayName": "Administrator"
+          },
+          "modifiedAt": "2021-09-25T05:59:39.384+0000",
+          "modifiedByUser": {
+            "id": "admin",
+            "displayName": "Administrator"
+          },
+          "name": "test.txt",
+          "archivedByUser": {
+            "id": "admin",
+            "displayName": "Administrator"
+          },
+          "id": "850cbd82-a6a1-460f-b4ae-be5111618ee2",
+          "nodeType": "cm:content",
+          "content": {
+            "mimeType": "text/plain",
+            "mimeTypeName": "Plain Text",
+            "sizeInBytes": 1020829,
+            "encoding": "UTF-8"
+          }
+        }
+      },
+      {
+        "entry": {
+          "createdAt": "2021-09-24T09:24:12.732+0000",
+          "archivedAt": "2021-09-24T09:47:38.752+0000",
+          "isFolder": false,
+          "isFile": true,
+          "createdByUser": {
+            "id": "admin",
+            "displayName": "Administrator"
+          },
+          "modifiedAt": "2021-09-24T09:45:43.185+0000",
+          "modifiedByUser": {
+            "id": "admin",
+            "displayName": "Administrator"
+          },
+          "name": "CAGrantQuote63ad4f.pdf",
+          "archivedByUser": {
+            "id": "admin",
+            "displayName": "Administrator"
+          },
+          "id": "53868760-460e-4f1c-8ece-adc2f32d6340",
+          "nodeType": "cm:content",
+          "content": {
+            "mimeType": "application/pdf",
+            "mimeTypeName": "Adobe PDF Document",
+            "sizeInBytes": 233968,
+            "encoding": "UTF-8"
+          }
+        }
+      },
+      {
+        "entry": {
+          "createdAt": "2021-09-24T08:55:58.808+0000",
+          "archivedAt": "2021-09-24T09:02:48.127+0000",
+          "isFolder": false,
+          "isFile": true,
+          "createdByUser": {
+            "id": "admin",
+            "displayName": "Administrator"
+          },
+          "modifiedAt": "2021-09-24T08:55:58.808+0000",
+          "modifiedByUser": {
+            "id": "admin",
+            "displayName": "Administrator"
+          },
+          "name": "HRTRQ201900276.pdf",
+          "archivedByUser": {
+            "id": "admin",
+            "displayName": "Administrator"
+          },
+          "id": "a100b798-aa59-413d-964e-f0e829b468b7",
+          "nodeType": "cm:content",
+          "content": {
+            "mimeType": "application/pdf",
+            "mimeTypeName": "Adobe PDF Document",
+            "sizeInBytes": 0,
+            "encoding": "UTF-8"
+          }
+        }
+      },
+      {
+        "entry": {
+          "createdAt": "2021-09-24T08:53:27.219+0000",
+          "archivedAt": "2021-09-24T09:02:02.546+0000",
+          "isFolder": false,
+          "isFile": true,
+          "createdByUser": {
+            "id": "admin",
+            "displayName": "Administrator"
+          },
+          "modifiedAt": "2021-09-24T08:53:27.219+0000",
+          "modifiedByUser": {
+            "id": "admin",
+            "displayName": "Administrator"
+          },
+          "name": "HRTRQ201900268.pdf",
+          "archivedByUser": {
+            "id": "admin",
+            "displayName": "Administrator"
+          },
+          "id": "f3103b8f-56ab-414a-b6c2-d114c88f94e2",
+          "nodeType": "cm:content",
+          "content": {
+            "mimeType": "application/pdf",
+            "mimeTypeName": "Adobe PDF Document",
+            "sizeInBytes": 0,
+            "encoding": "UTF-8"
+          }
+        }
+      }
+    ]
+  }
+}
