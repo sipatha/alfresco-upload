@@ -11,6 +11,9 @@ public class ProcessServiceTests {
     @Autowired
     private ProcessService processService;
 
+    @Autowired
+    private AttachmentService attachmentService;
+
     @Test
     public void testProcessOneFile() {
         var filename = "DomainRenewalHosting20192020.pdf";
@@ -18,6 +21,19 @@ public class ProcessServiceTests {
         var id = processService.process(filename);
 
         Assertions.assertNotNull(id);
+    }
+
+    @Test
+    public void testProcessList() {
+
+        var files = attachmentService.getAttachments();
+
+        for(var file : files) {
+            var id = processService.process(file);
+
+            Assertions.assertNotNull(id);
+        }
+
     }
 
 }

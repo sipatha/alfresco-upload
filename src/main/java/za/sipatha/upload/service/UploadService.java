@@ -34,7 +34,7 @@ public class UploadService {
 
     public String upload(String filename) {
 
-        var name = filename.substring(0, filename.lastIndexOf("."));
+        var name = filename.lastIndexOf(".") > 0 ? filename.substring(0, filename.lastIndexOf(".")) : filename;
 
         var multipart = new MultipartBody.Builder()
             .setType(MultipartBody.FORM)

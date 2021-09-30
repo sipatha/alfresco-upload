@@ -31,7 +31,7 @@ public class AlfrescoUploadConfig {
     @Bean
     public OkHttpClient httpClient() {
         final HttpLoggingInterceptor loggingInterceptor = new HttpLoggingInterceptor();
-        loggingInterceptor.setLevel(HttpLoggingInterceptor.Level.BODY);
+        loggingInterceptor.setLevel(HttpLoggingInterceptor.Level.BASIC);
 
         httpClient = new OkHttpClient.Builder()
             .addInterceptor(loggingInterceptor)

@@ -22,6 +22,8 @@ public class ProcessService {
 
         attachmentService.deleteFile(filename);
 
+        log.info("processed file: {}", filename);
+
         return id;
     }
 

@@ -2,8 +2,8 @@ spring:
   main:
     banner-mode: off
 alfresco-upload:
-  localFolder: /Users/s1patha/Downloads/temp/home/
+  localFolder: /Users/s1patha/Downloads/temp/files/
   base-url: http://alfresco.vmbt.local
-  remoteFolder: 7103214b-bbb6-49ea-9aca-f398f60ee5c2
+  remoteFolder: 8bd262e4-8c6c-415c-b8aa-9636281193da
   username: admin
   password: admin
